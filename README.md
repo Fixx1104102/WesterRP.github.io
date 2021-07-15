@@ -1,1 +1,1 @@
-# WesterRP.github.io
+# westerrp.github.io
